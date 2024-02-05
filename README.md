@@ -17,7 +17,7 @@ and methods related to data analysis.
 - **Tableau:** Data Modelling, Calculated Fields, Parameters, Relationships, Reports, Dashboards
 - **MySQL:** DDL, DQL, DML Statements, Joins, Sub-queries, Functions
 - **Python:** Variables, Data Types, Functions, Data Frames, Libraries (NumPy, Pandas, Matplotlib)
-- 
+  
 ## 🌱 I’m currently learning ...
 - Advanced Data Visualization techniques
 - Python for Data Analysis
