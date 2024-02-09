@@ -12,11 +12,11 @@ and methods related to data analysis.
 - Collaborative Data Projects
   
 ### 🛠️ Technical Skills
-- **Excel:** Lookups, Pivot Tables, Charts, Formulas, Conditional Formatting
-- **Power BI:** ETL, Data Modelling, DAX, Power Query, RLS, Relationships, Reports, Dashboards
-- **Tableau:** Data Modelling, Calculated Fields, Parameters, Relationships, Reports, Dashboards
-- **MySQL:** DDL, DQL, DML Statements, Joins, Sub-queries, Functions
-- **Python:** Variables, Data Types, Functions, Data Frames, Libraries (NumPy, Pandas, Matplotlib)
+- Power BI – Extract Transform & Load [ETL], Data Modelling, DAX, Parameters, Power query editor, calculated columns, Row Level Security [RLS], Relationships, Reports, Dashboards, Publishing and schedule refresh.-- Tableau – Data Modelling, Data Blending, Calculated fields, Parameters, Lod’s, Table Calculations, Dashboards.
+- Python – Variables, data types, data structures, modules & libraries (NumPy, SciPy, pandas, matplotlib, Seaborn).
+- MY SQL – Data types, Variables, joins, sub-queries, views, Window functions, CTEs, stored procedures & functions.
+- Advanced Excel – lookups, pivot Tables, power pivot, charts, formulas (viz. sumifs, countifs, nested ifs), conditional formatting, sorting, grouping, auto/advanced filters, Macros &VBA.
+
   
 ## 🌱 I’m currently learning ...
 - Advanced Data Visualization techniques
