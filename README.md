@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Pavan Patil 
+# 👋 Hi, I’m @Pavan R Patil 
 
 ### 🚀 Profile Summary
 As a Data Analyst proficient in analyzing, designing, and transforming data, I possess a keen ability to extract insights from diverse datasets. 
